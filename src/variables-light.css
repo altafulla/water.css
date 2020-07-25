@@ -18,5 +18,14 @@
   --form-text: #000;
   --variable: #39a33c;
   --highlight: #ff0;
-  --select-arrow: svg-load('./assets/select-arrow.svg', fill: #161f27);
+  --select-arrow: svg-load("./assets/select-arrow.svg", fill: #161f27);
+}
+:root {
+  --variable: #00a3a3;
+  --links: #008080;
+  --focus: #009696ab;
+  --background: #00808010;
+  --background-alt: #00909020;
+  --selection: #009e9eff;
+  --text-main: #363636;
 }
